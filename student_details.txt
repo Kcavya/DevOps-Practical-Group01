@@ -13,3 +13,5 @@ Branch: Artificial Intelligence and Data Science
 Practical DevOps Experiment 1
 
 GitHub Repository: DevOps-Practical-Group01
+
+Learning Git and GitHub through Practical DevOps.
