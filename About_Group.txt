@@ -1,0 +1,11 @@
+About Our Group
+
+Group Number: 01
+
+Department: Artificial Intelligence and Data Science
+
+This repository contains our Practical DevOps Experiment 1.
+
+Members:
+1. Kavya Mahamine
+2. Vrushabh Mali
